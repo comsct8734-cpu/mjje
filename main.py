@@ -1,4 +1,4 @@
-```python
+
 import streamlit as st
 
 st.set_page_config(
@@ -43,4 +43,4 @@ if selected_mbti:
         st.write(f"{idx}. {job}")
 
     st.success("추천 직업은 참고용이며 개인의 역량과 관심사가 더 중요합니다.")
-```
+
